@@ -1,0 +1,34 @@
+{
+    "alloc": {
+        "fab44193b5ea1984668e6ec354d9311499d584ff": {
+            "balance": "0x27b46536c66c8e0000000"
+        },
+        "f626d06240c0958605adc2208a1dbe2c6967a9df": {
+            "balance": "0x167fd2f45f5fa60000000"
+        },
+        "33ebe8a79e4cf894169a59c7155b639d9f29e3f7": {
+            "balance": "0xca7e6a975a5cd80000000"
+        }
+    },
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "config": {
+        "byzantiumBlock": 0,
+        "chainId": 1234,
+        "constantinopleBlock": 0,
+        "daoForkBlock": 0,
+        "eip150Block": 0,
+        "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "homesteadBlock": 0
+    },
+    "difficulty": "0x40",
+    "extraData": "0x",
+    "gasLimit": "0x1e8480000",
+    "gasUsed": "0x0",
+    "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": "0xdeadbeefdeadbeef",
+    "number": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": "0x0"
+}
